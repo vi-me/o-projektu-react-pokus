@@ -1,0 +1,13 @@
+.icon-container {
+  display: flex;
+  justify-content: space-around;
+}
+
+.icon {
+  width: 35px;
+  margin-top: 5%;
+  border-radius: 10px;
+  display: block;
+  margin: auto;
+  margin-top: 20px;
+}
